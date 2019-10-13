@@ -35,5 +35,11 @@ questions = {
     "answer": "b",
     "more_info": "http://www.computinghistory.org.uk/det/1793/James-Gosling/",
     "user_response": None,
+  }, 
+  6: {
+    "question": "Who is the inventor of emoji?\n(a)Nobuo Kawakami\n(b)Shigetaka Kurita\n(c)Takeshi Natsuno\n(d)Hiroyuki Nishimura\n",
+    "answer": "b",
+    "more_info": "https://en.m.wikipedia.org/wiki/Emoji",
+    "user_response": None,
   }
 }
